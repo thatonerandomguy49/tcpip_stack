@@ -1,1 +1,2 @@
 build/
+eval "$(ssh-agent -s)"*
